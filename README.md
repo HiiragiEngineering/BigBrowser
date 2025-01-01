@@ -1,0 +1,2 @@
+# BigBrowser
+WindowsとMacで使えるブラウザBigBrowserです。
